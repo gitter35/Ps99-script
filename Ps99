@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BludnyHolandan/PS99/main/v3/autofarm/lua"))();
